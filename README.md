@@ -5,6 +5,7 @@ Códigos de teste e outras brincadeiras
 ## Linguagens
 
 * C++
+* C
 
 ## Autores
 
