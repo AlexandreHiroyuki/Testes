@@ -4,9 +4,9 @@ Códigos de teste e outras brincadeiras
 
 ## Linguagens
 
-* C++
-* C
+- C++
+- C
 
-## Autores
+## Autor
 
-* **Alexandre Hiroyuki** - *Trabalho Inicial* - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
+- **Alexandre Hiroyuki** - [AlexandreHiroyuki](https://github.com/AlexandreHiroyuki)
